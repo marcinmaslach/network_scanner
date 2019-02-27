@@ -16,5 +16,5 @@ The goal was to create a program similar to "netdiscover" installed in Kali Linu
 This program after write in terminal `netdiscover -r 10.0.2.1/24` will show: 
 ![Algorithm schema](./i1.png) 
 
-My programm need to give him a target ip (you can see help by add --help). To give it you have to write -t or --target and give your ip. In my example program look like:
+My programm need to give him a target ip (you can see help by add --help). To give it you have to write -t or --target and give your ip. In my example program looks like this:
 ![Algorithm schema](./i3.png) 
